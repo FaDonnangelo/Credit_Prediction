@@ -5,5 +5,4 @@ I have compared Decision Tree, KNN, Naive Bayes and Logistic Regression models t
 Open the .ipynb file (Notebook) to access the Python code and set the path for the csv file!
 Then you only need to run the cells to create the ML Model.
 
-Im only a student in the process of learning. If you have any suggestions, improvements or advices, please do not hesitate to comment!
-Hope that you like it.
+Im only a student in the process of learning. If you have any suggestions, improvements or advices, please do not hesitate to comment and help me out!
